@@ -22,6 +22,11 @@ public class OgrenciTest {
                 ogr.getSoyad() + " "+ogr.getHarc());
 
 
+        Ogrenci ogr2 = new Ogrenci(2, "Tanju", "Çolak", "Samsun", 3000);
+
+        System.out.println(ogr2);
+
+
 
 
     }
